@@ -1,0 +1,16 @@
+{
+    "destinatario" : {
+      "nombre" : "Juan",
+      "apellidos" : "Delgado Martinez"
+    },
+    "articulo" : {
+      "nombre" : "Bicicleta Bianchi Oltre"
+    },
+    "direccion" : {
+      "calle" : "Reforma",
+      "numero" : 423,
+      "piso" : 3,
+      "letra" : "A"
+    },
+    "fecha" : "19-09-2021"
+  }
